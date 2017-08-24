@@ -1,2 +1,3 @@
 manage.py
 storebook\settings.py
+db.sqlLite3
